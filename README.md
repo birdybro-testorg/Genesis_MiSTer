@@ -55,24 +55,57 @@ There are two versions of region detection.
 <br>
 <br>
 
-## Additional features
+## Other Features
 
-* Multitaps: 4-way, Team player, J-Cart
-* SVP chip (Virtua Racing)
-* Audio Filters for Model 1, Model 2, Minimal, No Filter.
-* Option to choose between YM2612 and YM3438 (changes Ladder Effect behavior).
-* Composite Blending, smooth dithering patterns in games.
-* Sprite Limit, enables more sprites.
-* CPU Turbo, mitigates slowdowns.
+- Option to choose between `YM2612` and `YM3438`
+
+    *Changes Ladder Effect behavior.*
+    
+
+- **Composite Blending**
+
+    *Smooth dithering patterns in games.*
+
+- **Audio Filters**:
+    
+    - Model 1
+    - Model 2
+    - Minimal
+    - No Filter
+    
+    
+- **Sprite Limit**
+    
+    *Enables more sprites.*
+
+- **Multitaps**:
+
+    - Team player
+    - J-Cart
+    - 4-way
+
+
+- **CPU Turbo**
+    
+    *Mitigates slowdowns.*
+
+- **SVP Chip**
+    
+    *Virtual Racing*
+
+<br>
 
 
 <!----------------------------------------------------------------------------->
-
-[Badge License]: https://img.shields.io/badge/License-GPL_3-blue.svg?style=for-the-badge
-[Badge Port]: https://img.shields.io/badge/Port_Of-FPGAGen-EF2D5E.svg?style=for-the-badge
 
 [SEGA Megadrive / Genesis]: https://en.wikipedia.org/wiki/Sega_Genesis
 [MiSTer]: https://github.com/MiSTer-devel/Main_MiSTer/wiki
 [Port]: https://github.com/Torlus/fpgagen
 
 [License]: LICENSE
+
+
+<!--------------------------------{ Badges }----------------------------------->
+
+[Badge License]: https://img.shields.io/badge/License-GPL_3-blue.svg?style=for-the-badge
+[Badge Port]: https://img.shields.io/badge/Port_Of-FPGAGen-EF2D5E.svg?style=for-the-badge
