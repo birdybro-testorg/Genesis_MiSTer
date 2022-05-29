@@ -30,18 +30,30 @@ The following hotkeys reset the region.
 <br>
 <br>
 
-## Auto Region option
-There are 2 versions of region detection:
+## Auto Region Selection
 
-1) File name extension:
+There are two versions of region detection.
 
-* BIN -> JP
-* GEN -> US
-* MD  -> EU
+<br>
 
-2) Header. It may not always work as not all ROMs follow the rule, especially in European region.
-The header may include several regions - the correct one will be selected depending on priority option.
+### File Extension
 
+`BIN`  🠖  **JP** <br>
+`GEN`  🠖  **US** <br>
+`MD`       🠖  **EU**
+
+<br>
+
+### Header Based
+
+- The header may include several regions.
+- The region will be chosen depending on it's priority.
+
+*May sometimes not work as not all **ROM**s use* <br>
+*this mechanic, especially in **European** region.*
+
+<br>
+<br>
 
 ## Additional features
 
