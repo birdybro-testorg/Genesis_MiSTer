@@ -1,14 +1,9 @@
-# Genesis MiSTer    [![Badge License]][License]
+# Genesis MiSTer    [![Badge License]][License]    [![Badge Port]][Port]
 
 ***[SEGA Megadrive / Genesis]*** *for the* ***[MiSTer]*** *platform.*
 
 <br>
 
-This is the port of the [fpgagen](https://github.com/Torlus/fpgagen) core.
-
-fpgagen - a SEGA Megadrive/Genesis clone in a FPGA.
-Copyright (c) 2010-2013 Gregory Estrade (greg@torlus.com)
-All rights reserved
 
 
 ## Installing
@@ -48,9 +43,10 @@ The header may include several regions - the correct one will be selected depend
 <!----------------------------------------------------------------------------->
 
 [Badge License]: https://img.shields.io/badge/License-GPL_3-blue.svg?style=for-the-badge
+[Badge Port]: https://img.shields.io/badge/Port_Of-FPGAGen-EF2D5E.svg?style=for-the-badge
 
 [SEGA Megadrive / Genesis]: https://en.wikipedia.org/wiki/Sega_Genesis
 [MiSTer]: https://github.com/MiSTer-devel/Main_MiSTer/wiki
-
+[Port]: https://github.com/Torlus/fpgagen
 
 [License]: LICENSE
