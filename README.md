@@ -4,17 +4,29 @@
 
 <br>
 
+## Install
 
+1. Copy all `.rbf` files to the root folder of an **SD Card**.
 
-## Installing
-copy *.rbf to root of SD card. Put some ROMs (*.BIN/*.GEN/*.MD) into Genesis folder
+2. Place your **ROM**s into the `Genesis` folder.
 
+    *ROM Formats:* `BIN` , `GEN` , `MD` 
 
-## Hot Keys
-* F1 - reset to JP(NTSC) region
-* F2 - reset to US(NTSC) region
-* F3 - reset to EU(PAL)  region
+<br>
+<br>
 
+## Hotkeys
+
+The following hotkeys reset the region.
+
+| Key | Region | Type
+|:---:|:------:|:----:
+| <kbd> F1 </kbd> | **JP** | **NTSC**
+| <kbd> F2 </kbd> | **US** | **NTSC**
+| <kbd> F3 </kbd> | **EU** | **PAL**
+
+<br>
+<br>
 
 ## Auto Region option
 There are 2 versions of region detection:
