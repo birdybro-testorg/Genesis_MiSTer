@@ -1,4 +1,4 @@
-# Genesis MiSTer
+# Genesis MiSTer    [![Badge License]][License]
 
 ***[SEGA Megadrive / Genesis]*** *for the* ***[MiSTer]*** *platform.*
 
@@ -45,5 +45,12 @@ The header may include several regions - the correct one will be selected depend
 * CPU Turbo, mitigates slowdowns.
 
 
+<!----------------------------------------------------------------------------->
+
+[Badge License]: https://img.shields.io/badge/License-GPL_3-blue.svg?style=for-the-badge
+
 [SEGA Megadrive / Genesis]: https://en.wikipedia.org/wiki/Sega_Genesis
 [MiSTer]: https://github.com/MiSTer-devel/Main_MiSTer/wiki
+
+
+[License]: LICENSE
