@@ -6,11 +6,11 @@ Port of ***[SEGA Megadrive / Genesis]*** *to the* ***[MiSTer]*** *platform.*
 
 ## Install
 
-1. Copy all `.rbf` files to the root folder of an **SD Card**.
+1. Copy all  `.rbf`  files to the root folder of an **SD Card**.
 
-2. Place your **ROM**s into the `Genesis` folder.
+2. Place your **ROM**s into the  `Genesis`  folder.
 
-    *ROM Formats:* `BIN` , `GEN` , `MD` 
+    *Allowed Formats:*   <kbd> BIN </kbd> <kbd> GEN </kbd> <kbd> MD </kbd> 
 
 <br>
 <br>
