@@ -1,4 +1,8 @@
-# [SEGA Megadrive/Genesis](https://en.wikipedia.org/wiki/Sega_Genesis) for [MiSTer Platform](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
+# Genesis MiSTer
+
+***[SEGA Megadrive / Genesis]*** *for the* ***[MiSTer]*** *platform.*
+
+<br>
 
 This is the port of the [fpgagen](https://github.com/Torlus/fpgagen) core.
 
@@ -39,3 +43,7 @@ The header may include several regions - the correct one will be selected depend
 * Composite Blending, smooth dithering patterns in games.
 * Sprite Limit, enables more sprites.
 * CPU Turbo, mitigates slowdowns.
+
+
+[SEGA Megadrive / Genesis]: https://en.wikipedia.org/wiki/Sega_Genesis
+[MiSTer]: https://github.com/MiSTer-devel/Main_MiSTer/wiki
