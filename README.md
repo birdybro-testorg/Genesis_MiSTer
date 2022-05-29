@@ -1,16 +1,16 @@
 # Genesis MiSTer    [![Badge License]][License]    [![Badge Port]][Port]
 
-***[SEGA Megadrive / Genesis]*** *for the* ***[MiSTer]*** *platform.*
+Port of ***[SEGA Megadrive / Genesis]*** *to the* ***[MiSTer]*** *platform.*
 
 <br>
 
 ## Install
 
-1. Copy all `.rbf` files to the root folder of an **SD Card**.
+1. Copy all `.rbf` files to the root folder of an **SD Card**.
 
-2. Place your **ROM**s into the `Genesis` folder.
+2. Place your **ROM**s into the `Genesis` folder.
 
-    *ROM Formats:* `BIN` , `GEN` , `MD` 
+    *ROM Formats:* `BIN` , `GEN` , `MD` 
 
 <br>
 <br>
@@ -19,11 +19,13 @@
 
 The following hotkeys reset the region.
 
+<br>
+
 | Key | Region | Type
 |:---:|:------:|:----:
-| <kbd> F1 </kbd> | **JP** | **NTSC**
-| <kbd> F2 </kbd> | **US** | **NTSC**
-| <kbd> F3 </kbd> | **EU** | **PAL**
+| <kbd> F1 </kbd> | ***JP*** | ***NTSC***
+| <kbd> F2 </kbd> | ***US*** | ***NTSC***
+| <kbd> F3 </kbd> | ***EU*** | ***PAL***
 
 <br>
 <br>
