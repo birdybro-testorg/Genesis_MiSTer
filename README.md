@@ -63,38 +63,25 @@ There are two versions of region detection.
 
     *Changes Ladder Effect behavior.*
     
-    <br>
-    
-
 - **Composite Blending**
 
     *Smooth dithering patterns in games.*
     
-    <br>
-
 - **Audio Filters**:
     
     <kbd> Model 1 </kbd> <kbd> Model 2 </kbd> <kbd> Minimal </kbd> <kbd> No Filter </kbd>
-    
-    <br>
     
 - **Sprite Limit**
     
     *Enables more sprites.*
     
-    <br>
-    
 - **Multitaps**:
 
     <kbd> Team player </kbd> <kbd> J-Cart </kbd> <kbd> 4-way </kbd>
 
-    <br>
-
 - **CPU Turbo**
     
     *Mitigates slowdowns.*
-
-    <br>
 
 - **SVP Chip**
     
